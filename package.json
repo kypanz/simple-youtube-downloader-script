@@ -1,0 +1,25 @@
+{
+  "name": "simple-youtube-downloader-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kypanz/simple-youtube-downloader-script.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kypanz/simple-youtube-downloader-script/issues"
+  },
+  "homepage": "https://github.com/kypanz/simple-youtube-downloader-script#readme",
+  "dependencies": {
+    "winson": "^1.0.0",
+    "winston": "^3.8.2",
+    "ytdl-core": "^4.11.2"
+  }
+}
